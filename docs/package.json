@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "autoprefixer": "^9",
-    "postcss": "^7",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "postcss": "^8.4.31",
+    "tailwindcss": "3.0.0",
     "vue-gtm": "^2.0.0",
     "vue-tabs-component": "^1.5.0",
     "vuepress-plugin-canonical": "^1.0.0",
