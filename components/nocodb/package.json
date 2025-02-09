@@ -12,7 +12,7 @@
   "dependencies": {
     "@pipedream/platform": "^1.2.0",
     "moment": "^2.29.4",
-    "nocodb-sdk": "^0.92.4"
+    "nocodb-sdk": "^0.260.6"
   },
   "publishConfig": {
     "access": "public"
