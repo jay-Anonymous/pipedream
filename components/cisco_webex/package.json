@@ -10,7 +10,7 @@
   "homepage": "https://pipedream.com/apps/cisco_webex",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.30.0",
     "crypto": "^1.0.1",
     "uuid": "^8.3.2"
   },
