@@ -11,9 +11,9 @@
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
     "@aws-sdk/client-ec2": "^3.89.0",
-    "@aws-sdk/client-ses": "^3.95.0",
-    "@aws-sdk/client-sesv2": "^3.87.0",
-    "@pipedream/platform": "^0.10.0"
+    "@aws-sdk/client-ses": "^3.529.0",
+    "@aws-sdk/client-sesv2": "^3.529.0",
+    "@pipedream/platform": "^0.10.1"
   },
   "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
   "publishConfig": {
