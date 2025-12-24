@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@pipedream/platform": "^1.2.1",
+    "@pipedream/platform": "^1.6.0",
     "graphql-request": "^5.1.0",
     "moment": "^2.29.4"
   }
