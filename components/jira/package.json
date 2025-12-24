@@ -10,8 +10,8 @@
   "homepage": "https://pipedream.com/apps/jira",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "@pipedream/platform": "^0.10.0",
-    "form-data": "^4.0.0"
+    "@pipedream/platform": "^0.10.1",
+    "form-data": "^4.0.4"
   },
   "publishConfig": {
     "access": "public"
