@@ -13,7 +13,7 @@
   "homepage": "https://pipedream.com/apps/voilanorbert",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "@pipedream/platform": "^1.1.1"
+    "@pipedream/platform": "^1.6.0"
   },
   "publishConfig": {
     "access": "public"
