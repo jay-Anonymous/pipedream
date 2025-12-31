@@ -10,7 +10,7 @@
   "homepage": "https://pipedream.com/apps/gitlab",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "@gitbeaker/node": "^35.5.0",
+    "@gitbeaker/node": "^35.8.1",
     "@pipedream/platform": "^1.2.0",
     "lodash": "^4.17.21",
     "uuid": "^8.3.2"
