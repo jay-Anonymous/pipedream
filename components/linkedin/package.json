@@ -13,7 +13,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@pipedream/platform": "^1.2.1",
-    "axios": "^1.2.3"
+    "@pipedream/platform": "^1.6.0",
+    "axios": "^1.13.5"
   }
 }
