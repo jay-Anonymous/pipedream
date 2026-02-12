@@ -20,9 +20,9 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@pipedream/platform": "^1.1.1",
+    "@pipedream/platform": "^1.6.0",
     "api": "^4.5.2",
-    "axios": "^0.27.2",
+    "axios": "^1.13.5",
     "openapi-types": "^12.0.0"
   },
   "devDependencies": {
