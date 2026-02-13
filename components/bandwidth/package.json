@@ -12,6 +12,6 @@
   },
   "author": "Bandwidth",
   "dependencies": {
-    "@bandwidth/messaging": "^4.0.0"
+    "@bandwidth/messaging": "^4.1.7"
   }
 }
