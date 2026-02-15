@@ -10,9 +10,9 @@
   "homepage": "https://pipedream.com/apps/nocodb",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "@pipedream/platform": "^1.2.0",
+    "@pipedream/platform": "^1.6.0",
     "moment": "^2.29.4",
-    "nocodb-sdk": "^0.92.4"
+    "nocodb-sdk": "^0.202.9"
   },
   "publishConfig": {
     "access": "public"
