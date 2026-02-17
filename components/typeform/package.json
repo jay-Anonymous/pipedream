@@ -10,8 +10,8 @@
   "homepage": "https://pipedream.com/apps/typeform",
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "dependencies": {
-    "@pipedream/platform": "^1.1.1",
-    "axios": "^0.21.1",
+    "@pipedream/platform": "^1.6.0",
+    "axios": "^1.13.5",
     "lodash": "^4.17.21",
     "luxon": "^3.0.4",
     "querystring": "^0.2.0",
